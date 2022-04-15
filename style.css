@@ -1,4 +1,4 @@
-/********* General CSS *********/
+/****** General CSS ******/
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
     font-weight: 900;
 }
 
-/********* NavBar *********/
+/****** NavBar ******/
 .logo {
     font-size: 25px;
     text-transform: uppercase;
@@ -118,3 +118,63 @@ nav {
 .mobile-menu.active .line3 {
     transform: rotate(45deg) translate(-5px,-7px);
 }
+
+/****** Social Media ******/
+.social-media {
+    margin-top: 1rem;
+    display: flex;
+}
+
+.social-media a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #232323;
+    margin-left: 1cm;
+    padding: 1rem 4rem;
+    border: 1px #232323;
+    min-width: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    transition: 0.5s ease-in-out;
+}
+
+.social-media a:hover {
+    background-color: aqua;
+}
+
+/****** Section About ******/
+.section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    color: aliceblue;
+}
+
+.picture {
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    margin: 3rem 0 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #232323;
+    background-image: url('./img/vapb.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: grayscale(0.3);
+    color:#fff;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+
+.picture:hover {
+    filter: grayscale(1);
+}
+
+
+
