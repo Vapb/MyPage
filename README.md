@@ -3,7 +3,13 @@
 My first atempt to create a website portifolio.
 
 ## User-requests :
+* starting Sentence
+    * ~~Add some flare~~
 * navBar with sections
+    * ~~Logo~~
+    * ~~Sections~~ 
+    * ~~Colapsing function~~
+    * Go to the selected Section
 * aboutSection
     * MyName
     * Small description of myself
