@@ -1,6 +1,7 @@
 # MyPage
 
 My first atempt to create a website portifolio.
+Link : https://vapb.github.io/MyPage/
 
 ## User-requests :
 * starting Sentence
@@ -11,11 +12,15 @@ My first atempt to create a website portifolio.
     * ~~Colapsing function~~
     * Go to the selected Section
 * aboutSection
-    * MyName
-    * Small description of myself
-    * Picture of me
-    * Useful links
-    * Maybe skills ? 
+    * ~~MyName~~
+    * ~~Small description of myself~~
+    * ~~Picture of me~~
+    * Maybe skills
+        * Programming languages
+        * Tools
+    * ~~Useful links~~
+        * ~~Linkedin~~
+        * ~~Github~~
 * educationSection
     * My Education resume
 * experienceSection
