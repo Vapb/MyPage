@@ -13,7 +13,7 @@ body {
 #header {
     text-align:center;
     padding: 1cm;
-    font-size: 55px;
+    font-size: 80px;
     font-weight: 900;
 }
 
@@ -141,6 +141,7 @@ nav {
     margin-left: 1cm;
     padding: 1rem 4rem;
     border: 1px #232323;
+    border-radius: 50px;
     min-width: 4rem;
     display: flex;
     align-items: center;
@@ -150,7 +151,10 @@ nav {
 }
 
 .social-media a:hover {
-    background-color: aqua;
+    background-image: url('./img/vapb.jpg');
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
 }
 
 /****** Section About ******/
@@ -159,6 +163,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     width: 90%;
+    margin: auto;
     color: aliceblue;
 }
 
@@ -171,18 +176,29 @@ nav {
     align-items: center;
     justify-content: center;
     background-color: #232323;
-    background-image: url('./img/vapb.jpg');
+    background-image: url('./img/static.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: #fff;
     color:#fff;
-    cursor: pointer;
-    transition: 0.5s ease-in-out;
 }
 
 .picture:hover {
-    filter: grayscale(1);
+    background-image: url('./img/suprise.gif');
 }
+
+
+@media (max-width: 999px) {
+    .picture {
+        background-image: url('./img/vapb.jpg');
+    }
+
+    .picture:hover {
+        background-image: url('./img/vapb.jpg');
+    }
+}
+
 
 .description {
     width: 70%;
@@ -190,3 +206,13 @@ nav {
 }
 
 
+footer {
+    text-align: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    margin: auto;
+    background-color: #232323;
+    color: aliceblue;
+    text-decoration:none;
+}
