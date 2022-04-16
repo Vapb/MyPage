@@ -11,6 +11,7 @@ Link : https://vapb.github.io/MyPage/
     * ~~Sections~~ 
     * ~~Colapsing function~~
     * Go to the selected Section
+    * Sticky
 * aboutSection
     * ~~MyName~~
     * ~~Small description of myself~~
