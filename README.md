@@ -1,10 +1,10 @@
 # MyPage
 
-My first atempt to create a website portifolio.
+My first atempt to create a website portifolio.<br>
 Link : https://vapb.github.io/MyPage/
 
 ## User-requests :
-* starting Sentence
+* ~~starting Sentence~~
     * ~~Add some flare~~
 * navBar with sections
     * ~~Logo~~
@@ -22,13 +22,19 @@ Link : https://vapb.github.io/MyPage/
     * ~~Useful links~~
         * ~~Linkedin~~
         * ~~Github~~
+    * ~~Add fun easter egg~~
 * educationSection
     * My Education resume
+    * Add a vertical time line
 * experienceSection
     * My job experience
+    * Add a vertical time line with tools used
 * awardsCertsSection
     * My awards
     * My certs
 * portifolioSection
     * Blog posts
     * Side projects
+* ~~footer~~
+    * ~~AuthorName~~
+    * ~~Email~~
