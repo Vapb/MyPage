@@ -10,19 +10,19 @@ Link : https://vapb.github.io/MyPage/
     * ~~Logo~~
     * ~~Sections~~ 
     * ~~Colapsing function~~
-    * Go to the selected Section
+    * ~~Go to the selected Section~~
     * Sticky
-* aboutSection
+* ~~aboutSection~~
     * ~~MyName~~
     * ~~Small description of myself~~
     * ~~Picture of me~~
-    * Maybe skills
-        * Programming languages
-        * Tools
     * ~~Useful links~~
         * ~~Linkedin~~
         * ~~Github~~
     * ~~Add fun easter egg~~
+* skillsSection
+    * Programming languages
+    * Tools
 * educationSection
     * My Education resume
     * Add a vertical time line
