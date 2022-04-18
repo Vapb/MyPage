@@ -16,13 +16,16 @@ Link : https://vapb.github.io/MyPage/
     * ~~MyName~~
     * ~~Small description of myself~~
     * ~~Picture of me~~
+    * ~~Interests~~
     * ~~Useful links~~
         * ~~Linkedin~~
         * ~~Github~~
     * ~~Add fun easter egg~~
-* skillsSection
-    * Programming languages
-    * Tools
+* ~~skillsSection~~
+    * ~~Programming languages~~
+    * ~~Software Enginnering Tools~~
+    * ~~Data Science Tools~~
+    * ~~Securtiy Tools~~
 * educationSection
     * My Education resume
     * Add a vertical time line
