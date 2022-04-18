@@ -2,20 +2,51 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
-    background-color: hsl(0, 0%, 10%);
+    background-color: hsl(0, 0%, 8%);
     background-size: cover;
     height: auto;
 }
 
+/****** Header ******/
+.header-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 #header {
     text-align:center;
-    padding: 1cm;
-    font-size: 80px;
+    margin: 0.5cm;
+    width: 80%;
+    font-size: 50px ;
     font-weight: 900;
 }
+
+.small-picture {
+    width: 10%;
+    height: 100px;
+    margin: 0.25cm;
+    border-radius: 100%;
+    background-image: url(./img/Happy.webp);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+/***/
+
+.title-section {
+    font-size: 5vh;
+    color: orangered;
+    font-family: 'Courier New', Courier, monospace;
+    background-color :hsl(0, 0%, 5%);
+}
+
 
 main {
     color: aliceblue;
@@ -37,13 +68,13 @@ h2,h3 {
     letter-spacing: 4px;
     text-decoration: none;
     font-weight: 600;
+    color: orangered;
 }
 
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
     background: #232323;
     height: 8vh;
 }
@@ -65,7 +96,7 @@ nav {
 }
 
 .nav-list a:hover {
-    color: aqua;
+    color: orangered;
 }
 
 .mobile-menu {
@@ -170,6 +201,7 @@ nav {
     width: 90%;
     margin: auto;
     color: aliceblue;
+    margin: 1ch;
 }
 
 .picture {
