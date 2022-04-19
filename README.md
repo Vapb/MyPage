@@ -41,3 +41,4 @@ Link : https://vapb.github.io/MyPage/
 * ~~footer~~
     * ~~AuthorName~~
     * ~~Email~~
+* Add custom 404 Page
