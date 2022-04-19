@@ -351,7 +351,39 @@ nav {
     transition: all 0.2s ease-in;
 }
 
+/****** Awards ******/
+.awards {
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    list-style-type: none; 
+}
 
+.cert {
+    display: flex;
+    align-content: flex-end;
+    width: 100%;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+.cert_image {
+    display: block;
+    height: auto;
+    width: 5%;
+    border-radius: 25%;
+}
+
+.cert_text {
+    display: block;
+    padding: 0.5em;
+    margin-left: 1%;
+    width: 90%;
+}
+
+/******* ******/
 
 
 /***** Footer *****/
