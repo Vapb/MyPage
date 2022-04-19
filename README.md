@@ -3,42 +3,96 @@
 My first atempt to create a website portifolio.<br>
 Link : https://vapb.github.io/MyPage/
 
+---
+
+### Status colors
+
+<span style='color:green'>Green -> Done</span><br>
+<span style='color:yellow'>Yellow -> Not Implemented</span>
+
 ## User-requests :
-* ~~starting Sentence~~
-    * ~~Add some flare~~
-* navBar with sections
-    * ~~Logo~~
-    * ~~Sections~~ 
-    * ~~Colapsing function~~
-    * ~~Go to the selected Section~~
-    * Sticky
-* ~~aboutSection~~
-    * ~~MyName~~
-    * ~~Small description of myself~~
-    * ~~Picture of me~~
-    * ~~Interests~~
-    * ~~Useful links~~
-        * ~~Linkedin~~
-        * ~~Github~~
-    * ~~Add fun easter egg~~
-* ~~skillsSection~~
-    * ~~Programming languages~~
-    * ~~Software Enginnering Tools~~
-    * ~~Data Science Tools~~
-    * ~~Securtiy Tools~~
-* educationSection
+
+* <span style='color:green'> starting Sentence
+    * Add some flare    
+</span>
+
+<br>
+
+* <span style='color:green'> navBar with sections
+    * Logo
+    * Sections 
+    * Colapsing function
+    * Go to the selected Section </span>
+    * <span style='color:yellow'> Sticky </span>
+
+<br>
+
+* <span style='color:green'> aboutSection
+    * MyName
+    * Small description of myself
+    * Picture of me
+    * Interests
+    * Useful links
+        * Linkedin
+        * Github
+    * Add fun easter egg
+</span>
+
+<br>
+
+
+* <span style='color:green'> skillsSection
+    * Programming languages
+    * Software Enginnering Tools
+    * Data Science Tools
+    * Securtiy Tools
+</span>
+
+<br>
+
+
+* <span style='color:green'> educationSection
     * My Education resume
-    * Add a vertical time line
-* experienceSection
+        * Name Institution </span>
+        * <span style='color:yellow'> Years </span>
+    * Picture Education    
+</span>
+
+<br>
+
+
+* <span style='color:green'> experienceSection
     * My job experience
-    * Add a vertical time line with tools used
-* awardsCertsSection
+        * Job position
+        * Details
+        * <span style='color:yellow'> Tools Used </span>
+    * Picture job Establishment
+</span>
+
+<br>
+
+
+* <span style='color:green'> awardsCertsSection
     * My awards
     * My certs
-* portifolioSection
+    * Show Pdfs
+</span>
+
+<br>
+
+
+* <span style='color:yellow'> portifolioSection
     * Blog posts
     * Side projects
-* ~~footer~~
-    * ~~AuthorName~~
-    * ~~Email~~
-* Add custom 404 Page
+</span>    
+
+<br>
+
+* <span style='color:green'> footer
+    * AuthorName
+    * Email
+</span>
+
+<br>
+
+* <span style='color:yellow'> Add custom 404 Page </span>
