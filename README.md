@@ -1,7 +1,8 @@
 # MyPage
 
-My first atempt to create a website portifolio.<br>
-Link : https://vapb.github.io/MyPage/
+My first atempt to create a website portifolio. <br>
+Link : https://vapb.github.io/MyPage/ <br>
+Notion like page : 
 
 ---
 
@@ -97,4 +98,42 @@ Link : https://vapb.github.io/MyPage/
 
 * <span style='color:yellow'> Add custom 404 Page </span>
 
+<br>
+
+* <span style='color:yellow'> Create First project page (myPagePortifolio) </span>
+
+<br>
+
+
 * <span style='color:yellow'> Change Language option </span>
+
+<br>
+
+* <span style='color:yellow'> Insert Real Information PortugueseBrazil
+    * startingSentence
+    * navBar
+    * aboutSection
+    * skillsSection
+    * educationSection 
+    * experienceSection
+    * certsAwardsSection
+    * myProjectSection
+    * Footer
+    * 404Page
+</span>
+
+<br>
+
+* <span style='color:yellow'> Insert Real Information English
+    * startingSentence
+    * navBar
+    * aboutSection
+    * skillsSection
+    * educationSection 
+    * experienceSection
+    * certsAwardsSection
+    * myProjectSection
+    * Footer
+    * 404Page
+</span>
+
