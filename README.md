@@ -96,3 +96,5 @@ Link : https://vapb.github.io/MyPage/
 <br>
 
 * <span style='color:yellow'> Add custom 404 Page </span>
+
+* <span style='color:yellow'> Change Language option </span>
