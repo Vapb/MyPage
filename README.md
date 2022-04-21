@@ -24,7 +24,7 @@ Notion like page :
     * Sections 
     * Colapsing function
     * Go to the selected Section </span>
-    * <span style='color:yellow'> Sticky </span>
+
 
 <br>
 
@@ -54,8 +54,8 @@ Notion like page :
 
 * <span style='color:green'> educationSection
     * My Education resume
-        * Name Institution </span>
-        * <span style='color:yellow'> Years </span>
+        * Name Institution
+        *  Years 
     * Picture Education    
 </span>
 
@@ -66,7 +66,7 @@ Notion like page :
     * My job experience
         * Job position
         * Details
-        * <span style='color:yellow'> Tools Used </span>
+        * Tools Used
     * Picture job Establishment
 </span>
 
@@ -82,7 +82,7 @@ Notion like page :
 <br>
 
 
-* <span style='color:yellow'> portifolioSection
+* <span style='color:green'> portifolioSection
     * Blog posts
     * Side projects
 </span>    
